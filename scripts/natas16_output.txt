@@ -1,0 +1,61 @@
+Target reachable. Starting character parsing...
+Used chars: 0
+Used chars: 03
+Used chars: 035
+Used chars: 0357
+Used chars: 03578
+Used chars: 035789
+Used chars: 035789b
+Used chars: 035789bc
+Used chars: 035789bcd
+Used chars: 035789bcdg
+Used chars: 035789bcdgh
+Used chars: 035789bcdghk
+Used chars: 035789bcdghkm
+Used chars: 035789bcdghkmn
+Used chars: 035789bcdghkmnq
+Used chars: 035789bcdghkmnqr
+Used chars: 035789bcdghkmnqrs
+Used chars: 035789bcdghkmnqrsw
+Used chars: 035789bcdghkmnqrswA
+Used chars: 035789bcdghkmnqrswAG
+Used chars: 035789bcdghkmnqrswAGH
+Used chars: 035789bcdghkmnqrswAGHN
+Used chars: 035789bcdghkmnqrswAGHNP
+Used chars: 035789bcdghkmnqrswAGHNPQ
+Used chars: 035789bcdghkmnqrswAGHNPQS
+Used chars: 035789bcdghkmnqrswAGHNPQSW
+Characters parsed. Starting brute force...
+Password: 8*******************************
+Password: 8P******************************
+Password: 8Ps*****************************
+Password: 8Ps3****************************
+Password: 8Ps3H***************************
+Password: 8Ps3H0**************************
+Password: 8Ps3H0G*************************
+Password: 8Ps3H0GW************************
+Password: 8Ps3H0GWb***********************
+Password: 8Ps3H0GWbn**********************
+Password: 8Ps3H0GWbn5*********************
+Password: 8Ps3H0GWbn5r********************
+Password: 8Ps3H0GWbn5rd*******************
+Password: 8Ps3H0GWbn5rd9******************
+Password: 8Ps3H0GWbn5rd9S*****************
+Password: 8Ps3H0GWbn5rd9S7****************
+Password: 8Ps3H0GWbn5rd9S7G***************
+Password: 8Ps3H0GWbn5rd9S7Gm**************
+Password: 8Ps3H0GWbn5rd9S7GmA*************
+Password: 8Ps3H0GWbn5rd9S7GmAd************
+Password: 8Ps3H0GWbn5rd9S7GmAdg***********
+Password: 8Ps3H0GWbn5rd9S7GmAdgQ**********
+Password: 8Ps3H0GWbn5rd9S7GmAdgQN*********
+Password: 8Ps3H0GWbn5rd9S7GmAdgQNd********
+Password: 8Ps3H0GWbn5rd9S7GmAdgQNdk*******
+Password: 8Ps3H0GWbn5rd9S7GmAdgQNdkh******
+Password: 8Ps3H0GWbn5rd9S7GmAdgQNdkhP*****
+Password: 8Ps3H0GWbn5rd9S7GmAdgQNdkhPk****
+Password: 8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq***
+Password: 8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq9**
+Password: 8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq9c*
+Password: 8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq9cw
+Done. Have fun!

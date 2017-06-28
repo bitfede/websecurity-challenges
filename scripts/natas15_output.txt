@@ -1,0 +1,60 @@
+Target reachable. Starting character parsing...
+Used chars: 0
+Used chars: 03
+Used chars: 035
+Used chars: 0356
+Used chars: 03569
+Used chars: 03569a
+Used chars: 03569ac
+Used chars: 03569ace
+Used chars: 03569aceh
+Used chars: 03569acehi
+Used chars: 03569acehij
+Used chars: 03569acehijm
+Used chars: 03569acehijmn
+Used chars: 03569acehijmnp
+Used chars: 03569acehijmnpq
+Used chars: 03569acehijmnpqt
+Used chars: 03569acehijmnpqtw
+Used chars: 03569acehijmnpqtwB
+Used chars: 03569acehijmnpqtwBE
+Used chars: 03569acehijmnpqtwBEH
+Used chars: 03569acehijmnpqtwBEHI
+Used chars: 03569acehijmnpqtwBEHIN
+Used chars: 03569acehijmnpqtwBEHINO
+Used chars: 03569acehijmnpqtwBEHINOR
+Used chars: 03569acehijmnpqtwBEHINORW
+Characters parsed. Starting brute force...
+Password: W*******************************
+Password: Wa******************************
+Password: WaI*****************************
+Password: WaIH****************************
+Password: WaIHE***************************
+Password: WaIHEa**************************
+Password: WaIHEac*************************
+Password: WaIHEacj************************
+Password: WaIHEacj6***********************
+Password: WaIHEacj63**********************
+Password: WaIHEacj63w*********************
+Password: WaIHEacj63wn********************
+Password: WaIHEacj63wnN*******************
+Password: WaIHEacj63wnNI******************
+Password: WaIHEacj63wnNIB*****************
+Password: WaIHEacj63wnNIBR****************
+Password: WaIHEacj63wnNIBRO***************
+Password: WaIHEacj63wnNIBROH**************
+Password: WaIHEacj63wnNIBROHe*************
+Password: WaIHEacj63wnNIBROHeq************
+Password: WaIHEacj63wnNIBROHeqi***********
+Password: WaIHEacj63wnNIBROHeqi3**********
+Password: WaIHEacj63wnNIBROHeqi3p*********
+Password: WaIHEacj63wnNIBROHeqi3p9********
+Password: WaIHEacj63wnNIBROHeqi3p9t*******
+Password: WaIHEacj63wnNIBROHeqi3p9t0******
+Password: WaIHEacj63wnNIBROHeqi3p9t0m*****
+Password: WaIHEacj63wnNIBROHeqi3p9t0m5****
+Password: WaIHEacj63wnNIBROHeqi3p9t0m5n***
+Password: WaIHEacj63wnNIBROHeqi3p9t0m5nh**
+Password: WaIHEacj63wnNIBROHeqi3p9t0m5nhm*
+Password: WaIHEacj63wnNIBROHeqi3p9t0m5nhmh
+Done. Have fun!
