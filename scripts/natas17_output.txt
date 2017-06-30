@@ -1,0 +1,42 @@
+Target reachable. Starting character parsing...
+Used chars: 0
+Used chars: 04
+Used chars: 047
+Used chars: 047d
+Used chars: 047dg
+Used chars: 047dgh
+Used chars: 047dghj
+Used chars: 047dghjl
+Used chars: 047dghjlm
+Used chars: 047dghjlmp
+Used chars: 047dghjlmpq
+Used chars: 047dghjlmpqs
+Used chars: 047dghjlmpqsv
+Used chars: 047dghjlmpqsvw
+Used chars: 047dghjlmpqsvwx
+Used chars: 047dghjlmpqsvwxy
+Used chars: 047dghjlmpqsvwxyC
+Used chars: 047dghjlmpqsvwxyCD
+Used chars: 047dghjlmpqsvwxyCDE
+Used chars: 047dghjlmpqsvwxyCDEF
+Used chars: 047dghjlmpqsvwxyCDEFI
+Used chars: 047dghjlmpqsvwxyCDEFIK
+Used chars: 047dghjlmpqsvwxyCDEFIKO
+Used chars: 047dghjlmpqsvwxyCDEFIKOP
+Used chars: 047dghjlmpqsvwxyCDEFIKOPR
+Characters parsed. Starting brute force...
+Password: x*******************************
+Password: xv******************************
+Password: xvK*****************************
+Password: xvKI****************************
+Password: xvKIq***************************
+Password: xvKIqD**************************
+Password: xvKIqDj*************************
+Password: xvKIqDjy************************
+Password: xvKIqDjy4***********************
+Password: xvKIqDjy4O**********************
+Password: xvKIqDjy4OP*********************
+Password: xvKIqDjy4OPv********************
+Password: xvKIqDjy4OPv0*******************
+Password: xvKIqDjy4OPv0j******************
+Done. Password cracked!
